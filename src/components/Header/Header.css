@@ -1,0 +1,29 @@
+.header {
+  width: 100%;
+  background-color: #1c2b35;
+}
+
+.max-width {
+  max-width: 1300px;
+  margin: auto;
+}
+
+.header .max-width {
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 112px;
+}
+
+.header a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 17px;
+  margin-left: 32px;
+}
+
+.header a:hover {
+  color: orange;
+  transition: 0.3s ease;
+}
