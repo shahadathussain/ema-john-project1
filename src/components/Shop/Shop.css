@@ -9,10 +9,8 @@
   margin-top: 100px;
 }
 .cart-container {
-  width: 264px;
-  height: 944px;
   background: rgba(255, 153, 0, 0.3);
 }
-.cart-container h3 {
+/* .cart-container h3 {
   text-align: center;
-}
+} */
